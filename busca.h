@@ -1,0 +1,1 @@
+Cadastro busca(int codigo);
